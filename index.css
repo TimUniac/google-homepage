@@ -1,0 +1,18 @@
+body {
+    background-color:white;
+}
+
+#logo {
+    position: centre;
+    padding-top: 10%;
+    padding-left: 40%;
+    padding-right: 40%;
+
+}
+
+.search {
+    padding-left: 40%;
+    padding-right: 40%;
+        width: 200px;
+
+}
